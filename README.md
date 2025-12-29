@@ -1,6 +1,4 @@
-# Joel Chale School Management Dashboard
-
-# Fullstack App – Next.js + Node.js + React + TypeScript
+# Joel Chale School Management Dashboard 
 
 Fullstack application built with a modern stack, focused on clean architecture and real-world patterns.
 
