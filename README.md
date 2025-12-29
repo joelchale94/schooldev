@@ -1,5 +1,32 @@
 # Joel Chale School Management Dashboard
 
+# Fullstack App – Next.js + Node.js + React + TypeScript
+
+Fullstack application built with a modern stack, focused on clean architecture and real-world patterns.
+
+## Tech Stack
+
+### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+ 
+### Backend
+- Node.js
+- Prisma
+- TypeScript
+- Postgres
+- REST API
+
+## Features
+- Multi-page navigation (Next.js App Router)
+- Reusable React components
+- Client-side state management
+- REST API consumption
+- Clean folder structure
+
+
 ## Getting Started
 
 First, run the development server:
